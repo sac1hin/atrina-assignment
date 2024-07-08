@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 20px;
+}
+
+.page-tracker {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+button {
+  margin: 5px;
+}
+
+p {
+  color: red;
+}
